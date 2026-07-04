@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CbsHaritalandirmaApi", "CbsHaritalandirmaApi\CbsHaritalandirmaApi.csproj", "{C05F1192-B613-49D3-BBE2-2A0B60901368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05F1192-B613-49D3-BBE2-2A0B60901368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05F1192-B613-49D3-BBE2-2A0B60901368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05F1192-B613-49D3-BBE2-2A0B60901368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05F1192-B613-49D3-BBE2-2A0B60901368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A2A5DE-E487-4CD8-9BA4-517790F9ADCC}
+	EndGlobalSection
+EndGlobal

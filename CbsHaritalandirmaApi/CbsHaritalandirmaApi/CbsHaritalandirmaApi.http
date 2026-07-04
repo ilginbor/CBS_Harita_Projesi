@@ -1,0 +1,6 @@
+@CbsHaritalandirmaApi_HostAddress = http://localhost:5186
+
+GET {{CbsHaritalandirmaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
